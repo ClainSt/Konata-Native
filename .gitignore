@@ -1,0 +1,11 @@
+# Build and archive artifacts
+*.zip
+*.tar.gz
+*.tar.xz
+dist/
+build/
+*.so
+*.dll
+*.lib
+*.exe
+venv/
