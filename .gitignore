@@ -6,6 +6,7 @@ dist/
 build/
 *.so
 *.dll
+*.dll.a
 *.lib
 *.exe
 venv/
